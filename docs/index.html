@@ -46,7 +46,10 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-0ae969d3293726db143f6e9eb89af930.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-71e6b22a8b577e23b99457ff74e073c6.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-bcdbeab6be72b3ba2385ef0e47538c5f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="dark">
+<script src="site_libs/quarto-contrib/glightbox/glightbox.min.js"></script>
+<link href="site_libs/quarto-contrib/glightbox/glightbox.min.css" rel="stylesheet">
+<link href="site_libs/quarto-contrib/glightbox/lightbox.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -97,6 +100,10 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
+    <a class="nav-link" href="./about.html"> 
+<span class="menu-text">About</span></a>
+  </li>  
+  <li class="nav-item">
     <a class="nav-link" href="./research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
@@ -138,13 +145,13 @@ ul.task-list li input[type="checkbox"] {
 <section id="i-study-how-schools-shape-democracy-and-how-democracy-shapes-schools." class="level1 unnumbered unlisted">
 <h1 class="unnumbered unlisted">I study how schools shape democracy, and how democracy shapes schools.</h1>
 <p>I am an Assistant Professor of Political Science at North Central College, where I teach American politics, political behavior, public policy, and education politics. I am also a research affiliate at Brown University’s <a href="https://annenberg.brown.edu/">Annenberg Institute</a> and the <a href="https://home.watson.brown.edu/research/research-policy-labs/realizing-rights-lab">Realizing Rights Lab</a>.</p>
-<p>I study the politics of K12 education because public schools are among the last places where Americans of different backgrounds can still govern something together. My work explores when that works, when it doesn’t, and what it means for democracy.</p>
-<p>Outside of research and teaching, you can usually find me watching the latest Netflix show, catching up on pop culture, or exploring Chicago, likely with a Taylor Swift album on in the background.</p>
+<p>I study the politics of K–12 education because public schools are among the last places where Americans of different backgrounds can still govern something together. My work explores when that works, when it doesn’t, and what it means for democracy.</p>
+<p><a href="./about.html" class="see-all">More about me →</a></p>
 <p><a href="./research.html" class="btn-accent">See my research</a> <a href="files/arnzen-cv.pdf" class="btn-outline">Download CV (PDF)</a></p>
 </section>
 </div>
 <div class="hero-photo">
-<p><img src="images/headshot.jpg" class="img-fluid" alt="Cameron Arnzen"></p>
+<p><a href="images/headshot.jpg" class="lightbox" data-gallery="quarto-lightbox-gallery-1"><img src="images/headshot.jpg" class="img-fluid" alt="Cameron Arnzen"></a></p>
 <p><span class="muted" style="font-size: 0.85rem">Naperville, Illinois · <a href="mailto:carnzen@noctrl.edu">carnzen@noctrl.edu</a></span></p>
 </div>
 </div>
@@ -173,7 +180,7 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="recent-publications">Recent publications</h2>
 <div class="pub-list">
 <ul>
-<li><strong>2026.</strong> <a href="https://academic.oup.com/publius/article-abstract/56/3/690/8710125">Neighborhood Democracy: The Politization of School Boards &amp; Implications for Democratic Education</a>. <em>AERA Open.</em></li>
+<li><strong>Forthcoming.</strong> Neighborhood Democracy: The Politicization of School Boards and Implications for Democratic Education. With Rebecca Jacobsen. <em>AERA Open.</em></li>
 <li><strong>2026.</strong> <a href="https://academic.oup.com/publius/article-abstract/56/3/690/8710125">An Education in Devolution: Lessons from the Dissolution of the U.S. Department of Education</a>. <em>Publius: The Journal of Federalism.</em></li>
 <li><strong>2026.</strong> <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/psj.70106">Education and the Unequal Costs of Voting: Administrative Burden and Democratic Participation</a>. <em>Policy Studies Journal.</em></li>
 <li><strong>2026.</strong> <a href="https://www.sciencedirect.com/science/article/pii/S0261379426000703">Education &amp; the Gender Voting Gap in U.S. Presidential Elections</a>. With Sarah Cohodes. <em>Electoral Studies.</em></li>
@@ -625,6 +632,38 @@ ul.task-list li input[type="checkbox"] {
     </div>
   </div>
 </footer>
+<script>var lightboxQuarto = GLightbox({"closeEffect":"zoom","descPosition":"bottom","loop":false,"openEffect":"zoom","selector":".lightbox"});
+(function() {
+  let previousOnload = window.onload;
+  window.onload = () => {
+    if (previousOnload) {
+      previousOnload();
+    }
+    lightboxQuarto.on('slide_before_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      const href = trigger.getAttribute('href');
+      if (href !== null) {
+        const imgEl = window.document.querySelector(`a[href="${href}"] img`);
+        if (imgEl !== null) {
+          const srcAttr = imgEl.getAttribute("src");
+          if (srcAttr && srcAttr.startsWith("data:")) {
+            slideConfig.href = srcAttr;
+          }
+        }
+      } 
+    });
+  
+    lightboxQuarto.on('slide_after_load', (data) => {
+      const { slideIndex, slideNode, slideConfig, player, trigger } = data;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(slideNode);
+      }
+    });
+  
+  };
+  
+})();
+          </script>
 
 
 

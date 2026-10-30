@@ -199,3 +199,43 @@ blockquote, .blockquote {
   font-style: italic;
   p { color: $muted; }
 }
+
+// ---------- Photos ----------
+// Every photo row uses the same crop, border, and caption style.
+.photo-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: 1.5rem;
+  margin: 1.5rem 0 2.5rem;
+  .quarto-figure, figure, p { margin: 0; }
+  img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    object-position: center 30%;
+    border: 1px solid $rule;
+  }
+  &.square img { aspect-ratio: 1 / 1; }
+  figcaption, .figure-caption {
+    margin-top: 0.5rem;
+    font-size: 0.85rem;
+    font-style: italic;
+    color: $muted;
+    text-align: left;
+  }
+}
+.split {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5rem 2.5rem;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+  .split-text { flex: 999 1 380px; min-width: 0; }
+  .split-photo { flex: 1 1 240px; max-width: 320px; }
+  .split-photo img { width: 100%; border: 1px solid $rule; }
+  .split-photo figcaption, .split-photo .figure-caption {
+    font-size: 0.85rem; font-style: italic; color: $muted; text-align: left;
+  }
+  .quarto-figure, figure { margin: 0; }
+}
+.photo-row img.pos-right { object-position: 85% 30%; }

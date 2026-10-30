@@ -7,6 +7,12 @@ I work hard to ensure that all of my classes are simultaneously challenging and 
 > "Education is the universal solvent, and the relationship is always in the same direction. The higher the education, the greater the 'good' values of the variable."
 > — Philip E. Converse & Angus Campbell, 1972
 
+::: {.photo-row}
+![Introducing the teaching team, Teachers College](images/teaching-tc.jpg){.lightbox group="teaching" fig-alt="Cameron Arnzen at the front of a classroom with slides introducing the teaching team"}
+
+![Moderating the faculty advice panel at A Conversation on Doctoral Student Success, Teachers College, 2024](images/doctoral-success-panel.jpg){.lightbox group="teaching" fig-alt="Cameron Arnzen moderating a faculty panel on stage"}
+:::
+
 ::: {.institution}
 ## North Central College
 [Assistant Professor · 2026–]{.role}
