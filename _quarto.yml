@@ -1,0 +1,43 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+    - CNAME
+    - .nojekyll
+    - files/
+
+website:
+  title: "Cameron Arnzen"
+  site-url: "https://www.cameronarnzen.com"
+  description: "Political scientist studying the politics of K-12 education, democracy, and public policy."
+  favicon: images/headshot.jpg
+  navbar:
+    right:
+      - href: research.qmd
+        text: Research
+      - href: teaching.qmd
+        text: Teaching
+      - href: media.qmd
+        text: "Public Writing & Media"
+      - text: CV
+        href: files/arnzen-cv.pdf
+        target: _blank
+  page-footer:
+    left: "Cameron Arnzen, Ph.D. · North Central College · [carnzen@noctrl.edu](mailto:carnzen@noctrl.edu)"
+    right:
+      - text: Google Scholar
+        href: https://scholar.google.com/citations?user=Y6XLwqYAAAAJ&hl=en
+      - text: Bluesky
+        href: https://bsky.app/profile/camarnzen.bsky.social
+      - text: ORCID
+        href: https://orcid.org/0000-0001-9076-2655
+      - text: LinkedIn
+        href: https://www.linkedin.com/in/cameron-arnzen/
+
+format:
+  html:
+    theme: [default, styles.scss]
+    toc: false
+    page-layout: article
+    smooth-scroll: true
+    link-external-newwindow: true

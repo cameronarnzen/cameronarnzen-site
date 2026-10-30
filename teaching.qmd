@@ -1,0 +1,82 @@
+---
+title: "Teaching"
+---
+
+I work hard to ensure that all of my classes are simultaneously challenging and inviting spaces that encourage curiosity and  critical thinking. My goal for every student is for them to leave my classes as more informed and more engaged citizens than when they started. 
+
+> "Education is the universal solvent, and the relationship is always in the same direction. The higher the education, the greater the 'good' values of the variable."
+> — Philip E. Converse & Angus Campbell, 1972
+
+::: {.institution}
+## North Central College
+[Assistant Professor · 2026–]{.role}
+:::
+
+:::: {.courses}
+::: {.course}
+### Introduction to American Politics
+The ideas, actors, and institutions of the American political system, with a community-engaged learning component that puts course concepts into practice.
+:::
+::: {.course}
+### Public Opinion & Political Behavior
+How opinion is measured and where it comes from, whether it shapes policy, and the study of voting, participation, partisanship, and polarization.
+:::
+::: {.course}
+### Politics of Public Policy
+Policy as the product of politics, followed from agenda setting through implementation and feedback, with cases on voting, health, education, and housing.
+:::
+::::
+
+::: {.institution}
+## Teachers College, Columbia University
+[Adjunct Professor · 2022–2024]{.role}
+:::
+
+:::: {.courses}
+::: {.course}
+### American Politics & Education
+[Graduate seminar]{.kind}
+
+The political forces behind educational decisions: governance, funding, desegregation, and civic education.
+:::
+::: {.course}
+### Politics of Centralization & Decentralization
+[Graduate seminar]{.kind}
+
+How authority is allocated across nation, state, and locality, and what it means for responsiveness in education.
+:::
+::: {.course}
+### Politics & Public Policy
+[Graduate seminar]{.kind}
+
+Policy origins, from agenda setting to adoption, through cases in early childhood, K–12, and higher education.
+:::
+::::
+
+::: {.institution}
+## The College of Idaho
+[Caldwell, Idaho]{.role}
+:::
+
+:::: {.courses}
+::: {.course}
+### Politics of Education
+[Undergraduate lecture]{.kind}
+
+K–12 governance, funding, and politicization in the U.S., compared with other countries' systems.
+:::
+::: {.course}
+### Political Ideologies & Arguments
+[First-year seminar]{.kind}
+
+Ideologies as lenses on politics, philosophy, and economics, and what a left–right spectrum leaves out.
+:::
+::::
+
+## Other teaching
+
+**Brown University** (instructor): Statistics & Coding for Social Sciences
+
+**Columbia University** (teaching assistant): Reforming American Elections · Empirical Methods in Political Science · Introduction to American Politics · Politics of Centralization & Decentralization · Data Analysis for Policy & Decision Making II · Politics & Public Policy
+
+[Student evaluations (password protected) →](https://forms.gle/3gSmHrcaf6vJYZE99)

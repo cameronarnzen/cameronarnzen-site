@@ -1,0 +1,69 @@
+---
+pagetitle: "Cameron Arnzen"
+---
+
+::::: {.hero}
+
+:::: {.hero-text}
+
+::: {.eyebrow}
+Political Science · Education Politics
+:::
+
+# I study how schools shape democracy, and how democracy shapes schools. {.unnumbered .unlisted}
+
+I am an Assistant Professor of Political Science at North Central College, where I teach American politics, political behavior, public policy, and education politics. I am also a research affiliate at Brown University's [Annenberg Institute](https://annenberg.brown.edu/) and the [Realizing Rights Lab](https://home.watson.brown.edu/research/research-policy-labs/realizing-rights-lab).
+
+I study the politics of K12 education because public schools are among the last places where Americans of different backgrounds can still govern something together. My work explores when that works, when it doesn't, and what it means for democracy.
+
+Outside of research and teaching, you can usually find me watching the latest Netflix show, catching up on pop culture, or exploring Chicago, likely with a Taylor Swift album on in the background.
+
+[See my research](research.qmd){.btn-accent} [Download CV (PDF)](files/arnzen-cv.pdf){.btn-outline}
+
+::::
+
+:::: {.hero-photo}
+![](images/headshot.jpg){fig-alt="Cameron Arnzen"}
+
+[Naperville, Illinois · [carnzen@noctrl.edu](mailto:carnzen@noctrl.edu)]{.muted style="font-size: 0.85rem"}
+::::
+
+:::::
+
+::: {.quote-band}
+[“Democracy has to be born anew every generation, and education is its midwife.”]{.quote}
+
+[John Dewey]{.attribution}
+:::
+
+## Research areas
+
+:::: {.areas}
+
+::: {.area}
+### Partisanship & school boards
+How national partisanship reaches local school board elections, from exit polls in school board races to a national measure of district partisanship.
+:::
+
+::: {.area}
+### Administrative ease & access
+How the design of public institutions makes participation easier or harder, from the costs of voting in elections to accessing special education information via school districts.
+:::
+
+::: {.area}
+### Education federalism
+How authority over schooling is divided across levels of government, including state spending priorities and the dissolution of the U.S. Department of Education.
+:::
+
+::::
+
+## Recent publications
+
+::: {.pub-list}
+- **2026.** [Neighborhood Democracy: The Politization of School Boards & Implications for Democratic Education ](https://academic.oup.com/publius/article-abstract/56/3/690/8710125). *AERA Open.*
+- **2026.** [An Education in Devolution: Lessons from the Dissolution of the U.S. Department of Education](https://academic.oup.com/publius/article-abstract/56/3/690/8710125). *Publius: The Journal of Federalism.*
+- **2026.** [Education and the Unequal Costs of Voting: Administrative Burden and Democratic Participation](https://onlinelibrary.wiley.com/doi/abs/10.1111/psj.70106). *Policy Studies Journal.*
+- **2026.** [Education & the Gender Voting Gap in U.S. Presidential Elections](https://www.sciencedirect.com/science/article/pii/S0261379426000703). With Sarah Cohodes. *Electoral Studies.*
+:::
+
+[All publications →](research.qmd){.see-all}
