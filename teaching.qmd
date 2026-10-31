@@ -8,9 +8,9 @@ I work hard to ensure that all of my classes are simultaneously challenging and 
 > — Philip E. Converse & Angus Campbell, 1972
 
 ::: {.photo-row}
-![Introducing the teaching team, Teachers College](images/teaching-tc.jpg){.lightbox group="teaching" fig-alt="Cameron Arnzen at the front of a classroom with slides introducing the teaching team"}
+![Teaching future teachers about politics](images/teaching-tc.jpg){.lightbox group="teaching" fig-alt="Cameron Arnzen at the front of a classroom with slides introducing the teaching team"}
 
-![Moderating the faculty advice panel at A Conversation on Doctoral Student Success, Teachers College, 2024](images/doctoral-success-panel.jpg){.lightbox group="teaching" fig-alt="Cameron Arnzen moderating a faculty panel on stage"}
+![A Conversation on Doctoral Student Success](images/doctoral-success-panel.jpg){.lightbox group="teaching" fig-alt="Cameron Arnzen moderating a faculty panel on stage"}
 :::
 
 ::: {.institution}

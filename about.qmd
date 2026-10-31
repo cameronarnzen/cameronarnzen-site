@@ -5,19 +5,19 @@ title: "About"
 :::: {.split}
 
 ::: {.split-text}
-I grew up in New Plymouth, a small town in southwestern Idaho, where the public schools were one of the places the whole community came together. Most of what I study today traces back to that experience: who governs our schools, who gets a voice in those decisions, and what schools teach us about being citizens.
+I'm from New Plymouth, a rural town in southwestern Idaho, where the public schools were the center of the community. Most of what I study today traces back to that experience: who governs our schools, who gets a voice in those decisions, and how schools and teachers prepare us to be citizens.
 
-I studied political economy at The College of Idaho, then earned an M.A. in political science at Duke University and a Ph.D. in Politics & Education at Columbia University. At Teachers College, I learned to treat education as a political institution, not only a policy area, and taught graduate seminars on American politics and education, federalism, and the policy process. Being hooded by Jeffrey Henig at commencement remains one of my favorite memories.
+I studied political economy at The College of Idaho, then earned an M.A. in political science at Duke University and a Ph.D. in Politics & Education at Columbia University. My work today views education as a political institution, not just a policy area. I have taught graduate seminars on American politics and education, federalism, and the policy process. 
 
-After Columbia, I was a postdoctoral researcher at Brown University with the Annenberg Institute and the Realizing Rights Lab. There I ran exit polls in school board elections alongside undergraduate students, and deepened my work on administrative burden and access to democratic participation.
+After Columbia, I was a postdoctoral researcher at Brown University with the Annenberg Institute and the Realizing Rights Lab. There I ran exit polls in school board elections alongside undergraduate students, and built out work on administrative burden/ease and democratic participation.
 
-Today, I am an Assistant Professor of Political Science at North Central College, where my office sits in Goldspohn Hall. I live in Chicago and make the commute out to Naperville, which gives me time to think (and to listen to more Taylor Swift than I would care to admit). I still follow Idaho education policy closely, and I write about it for *Idaho Ed News* whenever I can.
+Today, I am an Assistant Professor of Political Science at North Central College. I live in Chicago and make the commute out to Naperville, which gives me time to catch up on emails (and to listen to Taylor Swift). I still follow Idaho education policy closely, and I write about it for *Idaho Ed News* whenever I can.
 
 Outside of work, you can usually find me watching the latest Netflix show, catching up on pop culture, or exploring a new corner of Chicago.
 :::
 
 ::: {.split-photo}
-![Commencement, Columbia University](images/regalia-doors.jpg){.lightbox group="about" fig-alt="Cameron Arnzen in Columbia doctoral regalia in front of large wooden doors"}
+![Graduation, Columbia University, 2024](images/regalia-doors.jpg){.lightbox group="about" fig-alt="Cameron Arnzen in Columbia doctoral regalia in front of large wooden doors"}
 :::
 
 ::::
@@ -32,13 +32,13 @@ Outside of work, you can usually find me watching the latest Netflix show, catch
 ::: {.photo-row .square}
 ![Accepting The College of Idaho's G.O.L.D. Award](images/gold-award-speech.jpg){.lightbox group="about" fig-alt="Cameron Arnzen speaking at a podium after receiving an alumni award"}
 
-![At the Columbia University Campbell Awards with representatives of the Columbia Alumni Association](images/campbell-award.jpg){.lightbox group="about" fig-alt="Cameron Arnzen with three representatives of the Columbia Alumni Association"}
+![Columbia University Campbell Awards](images/campbell-award.jpg){.lightbox group="about" fig-alt="Cameron Arnzen with three representatives of the Columbia Alumni Association"}
 
-![With Secretary of Education Miguel Cardona at Teachers College Commencement, 2023](images/cardona-2023.jpg){.lightbox group="about" fig-alt="Cameron Arnzen with Secretary of Education Miguel Cardona"}
+![Talking Education Politics with Former Secretary of Education Miguel Cardona](images/cardona-2023.jpg){.lightbox group="about" fig-alt="Cameron Arnzen with Secretary of Education Miguel Cardona"}
 
-![My office building, Goldspohn Hall, North Central College](images/goldspohn-hall.jpg){.lightbox group="about" fig-alt="Goldspohn Hall at North Central College"}
+![Goldspohn Hall, North Central College](images/goldspohn-hall.jpg){.lightbox group="about" fig-alt="Goldspohn Hall at North Central College"}
 
-![The morning commute: the Chicago River](images/chicago.jpg){.lightbox group="about" fig-alt="The Chicago River and downtown skyline"}
+![Morning Commute Views of the Chicago River](images/chicago.jpg){.lightbox group="about" fig-alt="The Chicago River and downtown skyline"}
 
-![Rhode Island, during my time at Brown](images/rhode-island.jpg){.lightbox group="about" fig-alt="A quiet lake in Rhode Island at dusk"}
+![Exploring Rhode Island](images/rhode-island.jpg){.lightbox group="about" fig-alt="A quiet lake in Rhode Island at dusk"}
 :::

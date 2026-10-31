@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.cameronarnzen.com/media.html</loc>
-    <lastmod>2026-10-30T23:09:20.298Z</lastmod>
-  </url>
-  <url>
     <loc>https://www.cameronarnzen.com/about.html</loc>
-    <lastmod>2026-10-30T23:09:20.297Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cameronarnzen.com/research.html</loc>
-    <lastmod>2026-10-30T23:10:13.180Z</lastmod>
-  </url>
-  <url>
-    <loc>https://www.cameronarnzen.com/teaching.html</loc>
-    <lastmod>2026-10-30T23:09:52.720Z</lastmod>
+    <lastmod>2026-10-30T23:17:54.789Z</lastmod>
   </url>
   <url>
     <loc>https://www.cameronarnzen.com/index.html</loc>
-    <lastmod>2026-10-30T23:09:20.298Z</lastmod>
+    <lastmod>2026-10-30T23:17:54.834Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cameronarnzen.com/teaching.html</loc>
+    <lastmod>2026-10-30T23:17:54.837Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cameronarnzen.com/research.html</loc>
+    <lastmod>2026-10-30T23:17:54.836Z</lastmod>
+  </url>
+  <url>
+    <loc>https://www.cameronarnzen.com/media.html</loc>
+    <lastmod>2026-10-30T23:17:54.835Z</lastmod>
   </url>
 </urlset>

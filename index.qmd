@@ -7,7 +7,7 @@ pagetitle: "Cameron Arnzen"
 :::: {.hero-text}
 
 ::: {.eyebrow}
-Political Science · Education Politics
+Political Science · Education Politics · Public Policy
 :::
 
 # I study how schools shape democracy, and how democracy shapes schools. {.unnumbered .unlisted}
@@ -25,7 +25,7 @@ I study the politics of K–12 education because public schools are among the la
 :::: {.hero-photo}
 ![](images/headshot.jpg){fig-alt="Cameron Arnzen"}
 
-[Naperville, Illinois · [carnzen@noctrl.edu](mailto:carnzen@noctrl.edu)]{.muted style="font-size: 0.85rem"}
+[Chicago, Illinois · [carnzen@noctrl.edu](mailto:carnzen@noctrl.edu)]{.muted style="font-size: 0.85rem"}
 ::::
 
 :::::
@@ -46,7 +46,7 @@ How national partisanship reaches local school board elections, from exit polls 
 :::
 
 ::: {.area}
-### Administrative ease & access
+### Administrative ease & democratic access
 How the design of public institutions makes participation easier or harder, from the costs of voting in elections to accessing special education information via school districts.
 :::
 

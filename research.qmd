@@ -64,7 +64,7 @@ Across projects, I combine original data, such as school board election exit pol
 ::: {.photo-row}
 ![With my dissertation committee](images/committee.jpg){.lightbox group="dissertation" fig-alt="Cameron Arnzen with his dissertation committee"}
 
-![Hooded by Jeffrey Henig at Teachers College commencement](images/henig-hooding.jpg){.lightbox .pos-right group="dissertation" fig-alt="Jeffrey Henig hugging Cameron Arnzen on stage at commencement"}
+![Behing hooded at commencement](images/henig-hooding.jpg){.lightbox .pos-right group="dissertation" fig-alt="Jeffrey Henig hugging Cameron Arnzen on stage at commencement"}
 
-![Commencement day, Columbia University](images/regalia-column.jpg){.lightbox group="dissertation" fig-alt="Cameron Arnzen in Columbia doctoral regalia"}
+![Columbia University blue!](images/regalia-column.jpg){.lightbox group="dissertation" fig-alt="Cameron Arnzen in Columbia doctoral regalia"}
 :::
