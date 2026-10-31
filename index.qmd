@@ -61,9 +61,9 @@ How authority over schooling is divided across levels of government, including s
 
 ::: {.pub-list}
 - **Forthcoming.** Neighborhood Democracy: The Politicization of School Boards and Implications for Democratic Education. With Rebecca Jacobsen. *AERA Open.*
-- **2026.** [An Education in Devolution: Lessons from the Dissolution of the U.S. Department of Education](https://academic.oup.com/publius/article-abstract/56/3/690/8710125). *Publius: The Journal of Federalism.*
+- **2026.** [An Education in Devolution: The Political Consequences of the Elimination of the U.S. Department of Education](https://academic.oup.com/publius/article-abstract/56/3/690/8710125). *Publius: The Journal of Federalism.*
 - **2026.** [Education and the Unequal Costs of Voting: Administrative Burden and Democratic Participation](https://onlinelibrary.wiley.com/doi/abs/10.1111/psj.70106). *Policy Studies Journal.*
-- **2026.** [Education & the Gender Voting Gap in U.S. Presidential Elections](https://www.sciencedirect.com/science/article/pii/S0261379426000703). With Sarah Cohodes. *Electoral Studies.*
+- **2026.** [Education and the Gender Gap in Presidential Elections](https://www.sciencedirect.com/science/article/pii/S0261379426000703). With Sarah Cohodes. *Electoral Studies.*
 :::
 
 [All publications →](research.qmd){.see-all}

@@ -35,7 +35,7 @@ Policy as the product of politics, followed from agenda setting through implemen
 
 ::: {.institution}
 ## Teachers College, Columbia University
-[Adjunct Professor · 2022–2024]{.role}
+[Adjunct Assistant Professor of Politics & Education · 2022–2024]{.role}
 :::
 
 :::: {.courses}
@@ -57,11 +57,17 @@ How authority is allocated across nation, state, and locality, and what it means
 
 Policy origins, from agenda setting to adoption, through cases in early childhood, K–12, and higher education.
 :::
+::: {.course}
+### Politics & Education Thesis Capstone
+[Graduate capstone]{.kind}
+
+Supporting master's students as they design and complete their thesis projects in politics and education.
+:::
 ::::
 
 ::: {.institution}
 ## The College of Idaho
-[Caldwell, Idaho]{.role}
+[Adjunct Professor · Caldwell, Idaho]{.role}
 :::
 
 :::: {.courses}
@@ -77,12 +83,24 @@ K–12 governance, funding, and politicization in the U.S., compared with other 
 
 Ideologies as lenses on politics, philosophy, and economics, and what a left–right spectrum leaves out.
 :::
+::: {.course}
+### Data Analysis for Public Policy
+[Undergraduate course]{.kind}
+
+Using data to define policy problems and evaluate the options for addressing them.
+:::
+::: {.course}
+### Internship Practicum
+[Undergraduate Practicum]{.kind}
+
+Supporting students through their internship placements and helping them build professional portfolios.
+:::
 ::::
 
 ## Other teaching
 
-**Brown University** (instructor): Statistics & Coding for Social Sciences
+**Brown University** (Instructor): Introduction to Statistics & Programming, Undergraduate Research Fellows for Social Science and Public Policy (Summer 2025)
 
-**Columbia University** (teaching assistant): Reforming American Elections · Empirical Methods in Political Science · Introduction to American Politics · Politics of Centralization & Decentralization · Data Analysis for Policy & Decision Making II · Politics & Public Policy
+**Columbia University** (Teaching Assistant): Political Behavior (Barnard) · Reforming American Elections · Empirical Methods in Political Science (Barnard) · Introduction to American Politics · Politics of Centralization & Decentralization · Data Analysis for Policy & Decision Making II · Politics & Public Policy
 
 [Student evaluations (password protected) →](https://forms.gle/3gSmHrcaf6vJYZE99)

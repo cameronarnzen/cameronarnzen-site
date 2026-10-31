@@ -2,7 +2,7 @@
 title: "Public Writing & Media"
 ---
 
-Commentary, interviews, and conversations about education politics for audiences beyond the academy.
+Commentary, reports, interviews, and talks about education politics for audiences beyond the academy.
 
 ::: {.callout-box}
 **Newsletter.** I write about politics, education, public policy, and NCC Departmental updates on [Substack](https://substack.com/@camarnzen).
@@ -14,7 +14,18 @@ Commentary, interviews, and conversations about education politics for audiences
 - **2026.** [Should Idaho's top educator have to pick a party?](https://www.idahoednews.org/voices/should-idahos-top-educator-have-to-pick-a-party/) *Idaho Ed News.*
 - **2026.** [Education and the Consequences of Federal Fragmentation](https://www.governing.com/management-and-administration/education-and-the-consequences-of-federal-fragmentation). *Governing.*
 - **2025.** [Local Elections, National Tides: The Role of Partisanship in School Board Elections](https://politicalsciencenow.com/local-elections-national-tides-the-role-of-partisanship-in-school-board-elections-2024-post-election-reflection-series/). With Rebecca Jacobsen. *APSA Educate.*
+- **2019.** One third of Idaho districts protect LGBTQ employees with policies. With Sarah Edge. *Idaho Ed News*, August 19.
+- **2019.** Most districts come close to complying with Idaho's transparency laws. With Sarah Edge. *Idaho Ed News*, July 29.
 - **2019.** [Legislators need to confront local funding as they consider rewriting the state funding formula](https://www.idahoednews.org/voices/legislators-need-to-confront-local-funding-as-they-consider-rewriting-the-state-funding-formula/). *Idaho Ed News.*
+:::
+
+## Reports & other writing
+
+::: {.pub-list}
+- **2025.** [The Influence of Partisanship in Rhode Island School Board Elections](https://annenberg.brown.edu/news/influence-partisanship-rhode-island-school-board-elections). With student coauthors L. Ahmed, B. Lispector, T. Sfinarolakis, and M. Melzer. *Annenberg Institute at Brown University Policy Brief.*
+- **2025.** Career Preparation in the Political Science Curriculum. With I. O. Hammerly, W. O'Brachta, C. B. O'Neill, R. G. Tan, and J. Wood. *Political Science Today.*
+- **2023.** Rethinking the Political Science Major: Recruitment, Retention, and Careers. With L. Falabella, J. Jackson, N. Foster Shoaf, and K. Victor. *Political Science Today* 3(3): 5–15.
+- **Forthcoming.** Entries in *An Encyclopedia of Youth Activism in America*. Bloomsbury.
 :::
 
 ## Interviews & appearances
@@ -25,4 +36,19 @@ Commentary, interviews, and conversations about education politics for audiences
 - **2026.** [*Brown Daily Herald*: "Administrative burden disproportionately discourages less-educated individuals from voting, Brown study finds"](https://www.browndailyherald.com/article/administrative-burden-disproportionately-discourages-less-educated-individuals-from-voting-brown-study-finds-20260331)
 - [Watson School of International and Public Affairs: "Turning rights into reality: Examining barriers to voting and education"](https://home.watson.brown.edu/news/news-from-watson/realizing-rights)
 - **2023.** [*The University Press*, Florida Atlantic University](https://www.upressonline.com/2023/09/proud-to-call-barbara-my-friend-experts-say-friendship-between-rep-randy-fine-barbara-feingold-complicates-presidential-search/): quoted on a presidential search.
+:::
+
+## Invited talks
+
+::: {.pub-list}
+- **2026.** "The Politics of American Education." Schools & Society Seminar, The College of Idaho.
+- **2025.** "The Politics of K–12 Education in America." North Central College.
+- **2025.** "National Politics Comes to Town: Evidence from School Board Elections." DePaul University.
+- **2025.** "The Politics of Civic Education: Lessons for Future Educators." California State University, Chico.
+- **2025.** "Crucibles of Democracy: The Politicization of School Boards." Annenberg Institute, Brown University.
+- **2025.** "Education for Democracy: Politics, Policy, and Schools." Department of Political Science, Northeastern University.
+- **2025.** "Education for Democracy: Politics, Policy, and Schools." Department of Political Science, Grinnell College.
+- **2024.** "Education for Democracy: Politics, Policy, and Schools." School of Public Policy, University of California, Riverside.
+- **2024.** "The Costs of Voting." Politics & Policy Undergraduate Seminar, University of Houston.
+- **2020–2025.** Annual guest lectures on education politics, the federal role in education, and Common Core. Schools & Society Seminar, The College of Idaho.
 :::
