@@ -2,10 +2,8 @@
 title: "Public Writing & Media"
 ---
 
-Commentary, reports, interviews, and talks about education politics for audiences beyond the academy.
-
 ::: {.callout-box}
-**Newsletter.** I write about politics, education, public policy, and NCC Departmental updates on [Substack](https://substack.com/@camarnzen).
+Commentary, reports, interviews, and talks about education politics for audiences beyond the academy.
 :::
 
 ## Commentary
